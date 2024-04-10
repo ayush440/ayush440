@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayush+Namdep!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayush+Namdeo!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from India </h3>
@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭  I’m currently working on frontend and backend development projects using React.js, Vue.js and Node.js.
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m constantly learning new techniques and libraries to enhance my skills in full-stack development.
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Open to collaborating on exciting projects that utilize the MERN or MEVN stacks.
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡  On a path to learn, build, collaborate, and deploy new things.
 
  </div>
  
