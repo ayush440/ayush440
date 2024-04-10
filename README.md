@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayush+Namdeo!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India </h3>
+<h3 align="center">I'm Ayush, a passionate full-stack developer with expertise in MERN and MEVN stacks. I enjoy building web applications using React.js, Vue.js, Node.js, Express, and MongoDB.</h3>
 
 <br/>
 
